@@ -14,9 +14,9 @@
 <br/>
 <br/>
 
-#### I'm a full-stack developer (Mainly C#)
+#### I'm a back-end developer (Mainly C#)
 - 📍  Living in São Paulo, Brazil.
-- 💻 Working at: Luol Informática - A small business that develops software for retail.
+- 💻 Working at: Beta Learning - A software development company which is part of ClearSale.
 - 🏫 Just finished a Software Development and Analysis degree at FIAP University.
 
 #### Tech stuff that i'm familiar with:
@@ -42,7 +42,5 @@
 #### Studying:
 <div display="inline">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
