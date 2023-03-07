@@ -14,10 +14,10 @@
 <br/>
 <br/>
 
-#### I'm a back-end developer (Mainly C#)
+#### I'm a back-end developer (Mainly C#/.NET)
 - 📍  Living in São Paulo, Brazil.
-- 💻 Working at: Beta Learning - A software development company which is part of ClearSale.
-- 🏫 Just finished a Software Development and Analysis degree at FIAP University.
+- 💻 Working at: Beta Learning - A software development company which is now part of ClearSale.
+- 🏫 Software Development and Analysis degree at FIAP University.
 
 #### Tech stuff that i'm familiar with:
 <div display="inline">
@@ -31,16 +31,3 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-
-#### I'm interested in:
-<div display="inline">
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-</div>
-
-#### Studying:
-<div display="inline">
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-</div>
-
