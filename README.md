@@ -16,7 +16,7 @@
 
 #### I'm a back-end developer (Mainly C#/.NET)
 - 📍  Living in São Paulo, Brazil.
-- 💻 Working at: Beta Learning - A software development company which is now part of ClearSale.
+- 💻 Working at: ClearSale - An anti-fraud solutions company.
 - 🏫 Software Development and Analysis degree at FIAP University.
 
 #### Tech stuff that i'm familiar with:
@@ -25,9 +25,4 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
